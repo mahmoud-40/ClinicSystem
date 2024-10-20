@@ -1,6 +1,6 @@
 # ClinicSystem
 
-**ClinicSystem** is a console-based management system for Dr. Ahmed's clinic, aiding in appointments, scheduling, and follow-ups. It uses a class-based architecture to mirror real-world clinic operations.
+**ClinicSystem** is a console-based management system for a Doctor's clinic, aiding in appointments, scheduling, and follow-ups. It uses a class-based architecture to mirror real-world clinic operations.
 
 ### Key Features
 - **Appointment Management**: Handle customer appointments.
