@@ -43,7 +43,7 @@ Potential extensions include:
 ### Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/ClinicSystem.git
+    git clone https://github.com/mahmoud-40/ClinicSystem.git
     ```
 2. Open in your preferred C# IDE.
 3. Run **Program.cs** to start the application.
